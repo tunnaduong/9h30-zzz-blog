@@ -8,7 +8,7 @@ export async function GET() {
   const posts = await getCollection("blog");
   const sortedPosts = getSortedPosts(posts);
   return rss({
-    title: SITE.title,
+    title: SITE.title.slice(0, 4) + " phải đi ngủ trước 9h30.",
     description: SITE.desc,
     site: SITE.website,
     items: sortedPosts.map(({ data, id, filePath }) => ({

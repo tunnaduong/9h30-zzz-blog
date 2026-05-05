@@ -18,7 +18,7 @@ type Props = {
 };
 
 const {
-  title = SITE.title,
+  title = SITE.title.slice(0, 4) + " phải đi ngủ trước 9h30.",
   author = SITE.author,
   profile = SITE.profile,
   description = SITE.desc,
@@ -63,7 +63,7 @@ const structuredData = {
 
     <!-- Load Font -->
     <Font
-      cssVariable="--font-google-sans-code"
+      cssVariable="--font-roboto-mono"
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />
 

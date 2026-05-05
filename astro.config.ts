@@ -61,8 +61,8 @@ export default defineConfig({
     preserveScriptOrder: true,
     fonts: [
       {
-        name: "Google Sans Code",
-        cssVariable: "--font-google-sans-code",
+        name: "Roboto Mono",
+        cssVariable: "--font-roboto-mono",
         provider: fontProviders.google(),
         fallbacks: ["monospace"],
         weights: [300, 400, 500, 600, 700],

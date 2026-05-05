@@ -9,9 +9,9 @@ import { SITE } from "@/config";
 const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
 ---
 
-<Layout title={`Search | ${SITE.title}`}>
+<Layout title={`Tìm kiếm | ${SITE.title}`}>
   <Header />
-  <Main pageTitle="Search" pageDesc="Search any article ...">
+  <Main pageTitle="Tìm kiếm" pageDesc="Tìm kiếm bài viết bất kỳ ...">
     <div id="pagefind-search" transition:persist data-backurl={backUrl}></div>
   </Main>
   <Footer />
@@ -36,7 +36,7 @@ const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
       if (import.meta.env.DEV) {
         pageFindSearch.innerHTML = `
             <div class="bg-muted/75 rounded p-4 space-y-4 mb-4">
-              <p><strong>DEV mode Warning! </strong>You need to build the project at least once to see the search results during development.</p>
+              <p><strong>Cảnh báo! </strong>Bạn cần xây dựng dự án ít nhất một lần để xem kết quả tìm kiếm trong quá trình phát triển.</p>
               <code class="block bg-black text-white px-2 py-1 rounded">pnpm run build</code>
             </div>
           `;
@@ -45,6 +45,14 @@ const backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
       // Init pagefind ui
       const search = new PagefindUI({
         element: "#pagefind-search",
+        translations: {
+          placeholder: "Tìm kiếm...", // Search input placeholder
+          clear_search: "Xóa", // Clear button
+          load_more: "Xem thêm", // Load more results
+          zero_results: "Không tìm thấy kết quả cho [SEARCH_TERM]",
+          many_results: "[COUNT] kết quả cho [SEARCH_TERM]",
+          searching: "Đang tìm kiếm [SEARCH_TERM]...",
+        },
         showImages: false,
         showSubResults: true,
         processTerm: function (term: string) {

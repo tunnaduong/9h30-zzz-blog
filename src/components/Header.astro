@@ -5,6 +5,7 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
+import IconMoonZzz from "@/assets/icons/IconMoonZzz.svg";
 import LinkButton from "./LinkButton.astro";
 import { SITE } from "@/config";
 
@@ -46,6 +47,9 @@ const isActive = (path: string) => {
       href="/"
       class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
     >
+      <IconMoonZzz
+        class="inline-block size-5 -translate-y-0.5 scale-125 opacity-90 dark:fill-white"
+      />
       {SITE.title}
     </a>
     <nav
@@ -73,17 +77,17 @@ const isActive = (path: string) => {
       >
         <li class="col-span-2">
           <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
-            Posts
+            Bài viết
           </a>
         </li>
         <li class="col-span-2">
           <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
-            Tags
+            Chủ đề
           </a>
         </li>
         <li class="col-span-2">
           <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
-            About
+            Giới thiệu
           </a>
         </li>
         {
@@ -97,11 +101,11 @@ const isActive = (path: string) => {
                     "active-nav [&>svg]:stroke-accent": isActive("/archives"),
                   },
                 ]}
-                title="Archives"
+                title="Lưu trữ"
                 aria-label="archives"
               >
                 <IconArchive class="hidden sm:inline-block" />
-                <span class="sm:sr-only">Archives</span>
+                <span class="sm:sr-only">Lưu trữ</span>
               </LinkButton>
             </li>
           )
@@ -117,7 +121,7 @@ const isActive = (path: string) => {
             aria-label="search"
           >
             <IconSearch />
-            <span class="sr-only">Search</span>
+            <span class="sr-only">Tìm kiếm</span>
           </LinkButton>
         </li>
         {
