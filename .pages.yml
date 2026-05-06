@@ -17,6 +17,11 @@ content:
         type: select
         options:
           values: [true, false]
+      - name: featured
+        label: Is featured?
+        type: select
+        options:
+          values: [true, false]
       - name: pubDatetime
         label: Published Datetime
         type: date
