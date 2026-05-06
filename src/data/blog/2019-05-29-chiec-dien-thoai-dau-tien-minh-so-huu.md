@@ -21,7 +21,7 @@ Quay trở lại với chiếc điện thoại Wiko. Thời đó có lẽ mình 
 
 Nhược điểm của con này thì max nhiều. Đến giờ đã là 3 năm kể từ ngày mình mua máy mà nó vẫn hoạt động được và mình đã đem cho thằng bạn cùng lớp mình.
 
-##### Và sau đây là những trải nghiệm chân thật của mình về sản phẩm này:
+Và sau đây là những trải nghiệm chân thật của mình về sản phẩm này:
 
 - Cấu hình cùi bắp, lướt Facebook cũng bị giật lag
 - Pin chai khá nhiều do 3 năm sử dụng. Mình ước chừng chỉ dùng được 1,5 tiếng nếu lướt web bình thường
