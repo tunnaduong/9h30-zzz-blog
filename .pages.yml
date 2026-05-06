@@ -13,6 +13,7 @@ content:
         label: Description
         type: text
       - name: draft
+        label: Is draft?
         type: select
         options:
           values: [True, False]
