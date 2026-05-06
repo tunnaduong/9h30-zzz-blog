@@ -21,5 +21,8 @@ content:
       - name: heroImage
         label: Hero Image
         type: image
+      - name: body
+        label: Body
+        type: rich-text
     view:
       fields: [title, description, pubDatetime, heroImage]
