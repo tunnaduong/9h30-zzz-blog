@@ -1,5 +1,5 @@
 ---
-title: Một vài thứ trước đây...
+title: Những thứ trước đây...
 author: Tùng.
 description: Một chút tâm sự nhỏ về những điều của quá khứ.
 draft: false
