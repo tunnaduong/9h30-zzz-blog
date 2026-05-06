@@ -29,11 +29,6 @@ content:
         options:
           multiple: true  # Cho phép chọn nhiều tag cùng lúc
           create: true    # CHO PHÉP TỰ GÕ VÀO TAG MỚI nếu không có trong danh sách
-          values:         # Danh sách các tag gợi ý sẵn có
-            - Tâm lý học
-            - Lập trình
-            - Chuyện đời
-            - Linh tinh
       - name: pubDatetime
         label: Published Datetime
         type: date
