@@ -12,6 +12,10 @@ content:
       - name: description
         label: Description
         type: text
+      - name: draft
+        type: select
+        options:
+          values: [True, False]
       - name: pubDatetime
         label: Published Datetime
         type: date
