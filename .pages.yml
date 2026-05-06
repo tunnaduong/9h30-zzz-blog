@@ -5,3 +5,18 @@ content:
   - name: posts
     type: collection
     path: src/data/blog
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: description
+        label: Description
+        type: text
+      - name: pubDate
+        label: Published Date
+        type: date
+      - name: heroImage
+        label: Hero Image
+        type: image
+    view:
+      fields: [title, description, pubDate, heroImage]
