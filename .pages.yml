@@ -12,9 +12,11 @@ content:
       - name: description
         label: Description
         type: text
-      - name: pubDate
-        label: Published Date
+      - name: pubDatetime
+        label: Published Datetime
         type: date
+        options: 
+          time: true
       - name: heroImage
         label: Hero Image
         type: image
