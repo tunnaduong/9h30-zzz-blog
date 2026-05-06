@@ -2,7 +2,7 @@
 title: Một vài thứ trước đây...
 author: Tùng.
 description: Một chút tâm sự nhỏ về những điều của quá khứ.
-draft: true
+draft: false
 featured: true
 tags:
   - Tâm sự mỏng
