@@ -9,7 +9,7 @@ tags:
   - Công nghệ
   - Linh tinh
 pubDatetime: 2019-05-29T11:43:00+07:00
-heroImage: ./assets/IMG_5507.png
+heroImage: src/assets/images/IMG_5507.png
 ---
 Mình còn nhớ Wiko Rainbow Lite là chiếc sờ-mát-phôn đầu tiên của mình mua từ hồi lớp 7.
 
