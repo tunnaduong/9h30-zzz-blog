@@ -35,6 +35,7 @@ content:
             - Lập trình
             - Chuyện đời
             - Linh tinh
+            - Tâm sự mỏng
       - name: pubDatetime
         label: Published Datetime
         type: date
