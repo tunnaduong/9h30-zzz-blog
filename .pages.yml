@@ -17,7 +17,7 @@ content:
         type: date
         options: 
           time: true
-          format: yyyy-mm-dd H:i:s
+          format: yyyy-mm-dd'T'H:i:s'Z'
       - name: heroImage
         label: Hero Image
         type: image
