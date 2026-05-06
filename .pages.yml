@@ -1,6 +1,6 @@
 media:
   input: src/assets/images
-  output: ./assets
+  output: src/assets/images
 content:
   - name: posts
     type: collection
