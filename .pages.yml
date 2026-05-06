@@ -16,7 +16,7 @@ content:
         label: Is draft?
         type: select
         options:
-          values: [True, False]
+          values: [true, false]
       - name: pubDatetime
         label: Published Datetime
         type: date
