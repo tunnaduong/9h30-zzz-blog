@@ -17,14 +17,12 @@ content:
         type: text
       - name: draft
         label: Is draft?
-        type: select
-        options:
-          values: [true, false]
+        type: boolean
+        default: true
       - name: featured
         label: Is featured?
-        type: select
-        options:
-          values: [true, false]
+        type: boolean
+        default: false
       - name: pubDatetime
         label: Published Datetime
         type: date
