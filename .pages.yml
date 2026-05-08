@@ -51,3 +51,4 @@ content:
         type: rich-text
     view:
       fields: [title, description, pubDatetime, heroImage]
+    filename: "{primary}.md"
