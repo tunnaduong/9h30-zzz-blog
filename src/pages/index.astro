@@ -70,13 +70,13 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           if (timeSpan) {
             timeSpan.textContent = timeStr;
           }
-          // Display the sleep notice if after 21:30 (9:30 PM)
-          if (
-            now.getHours() > 21 ||
-            (now.getHours() === 21 && now.getMinutes() >= 30)
-          ) {
+          // Display the sleep notice if after 21:30 (9:30 PM) or before 6:00 AM
+          const isLate = (hour > 21 || (hour === 21 && minute >= 30));
+          const isEarly = (hour < 6);
+          if (isLate || isEarly) {
             document.getElementById("sleep-notice").style.display = "";
           }
+     
         })();
       </script>
       {
