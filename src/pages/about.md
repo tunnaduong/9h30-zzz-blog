@@ -3,35 +3,43 @@ layout: ../layouts/AboutLayout.astro
 title: "Giới thiệu"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Chào bạn, người lạ đã ghé thăm góc nhỏ của mình!
 
-![Astro Paper](public/astropaper-og.jpg)
+Cảm ơn bạn đã dành thời gian dừng chân tại **[9h30-zzz.blog](http://9h30-zzz.blog)**. Nếu bạn đang thắc mắc "Tunna Duong là ai?" hay "Trang blog này có cái gì hay ho?" thì đây là câu trả lời.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+### Mình là ai?
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Mình là **Dương Tùng Anh**, nhưng bạn bè và cộng đồng mạng thường biết đến mình qua cái tên **Tunna Duong**.
 
-## Features
+Mình là một cựu học sinh chuyên Biên Hòa, một cựu sinh viên Đại học FPT Hà Nội và Cao đẳng FPT Polytechnic Hà Nam, và hiện tại đang làm việc tại quê hương Hà Nam. Nếu phải dùng một vài từ để mô tả bản thân, mình sẽ tự nhận là một kẻ "mọt máy tính" chính hiệu với niềm đam mê mãnh liệt dành cho dòng code, công nghệ và cách thế giới này vận hành. Tuy nhiên, ngoài những lúc dán mắt vào màn hình, mình còn dành tình yêu cho nhiếp ảnh, quay phim và những chuyến đi.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+### Tại sao lại là @9h30.zzz?
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Cái tên blog nghe có vẻ hơi "buồn ngủ" nhỉ? Thực ra, nó đại diện cho một lời nhắc nhở (hoặc đôi khi là một mong ước xa xỉ) về việc đi ngủ đúng giờ sau một ngày dài làm việc. 9h30 tối - thời điểm lý tưởng để đóng máy tính, tạm gác lại những dòng code rối rắm và tận hưởng một chút bình yên cho riêng mình.
 
-and so much more.
+Trang blog này được lập ra với mục đích ban đầu là một "kho lưu trữ" cá nhân. Thay vì để những kiến thức và trải nghiệm trôi tuột đi, mình chọn cách viết chúng ra. Khi cần, mình có thể tìm lại ngay tại đây mà không phải mất công hỏi "ông chú" Google từ đầu.
 
-## Show your support
+### Bạn sẽ tìm thấy gì ở đây?
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+Blog được chia thành nhiều chuyên mục, giống như những mảng màu khác nhau trong cuộc sống của mình:
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+- **Công nghệ & Lập trình**  
+Nơi mình chia sẻ những kiến thức về Full-stack development, ReactJS, Next.js hay những dự án IoT "hì hục" với Arduino và Raspberry Pi.
+- **Chuyện đời & Tâm sự mỏng**  
+Những suy nghĩ vụn vặt, những cảm xúc cá nhân về cuộc sống thường nhật mà đôi khi chúng ta vô tình lướt qua quá nhanh.
+- **Hành trình tự lập & Nấu nướng**  
+Đây là chuyên mục "mới toanh", ghi lại quá trình mình học cách chăm sóc bản thân, từ việc đi gym cho đến những lần đầu tiên lăn vào bếp với sự trợ giúp của AI (như món ức gà "huyền thoại" mà mình vừa kể gần đây).
+- **Review**  
+Những đánh giá chân thực về thiết bị công nghệ, lens máy ảnh hay bất cứ thứ gì mình thấy thú vị và đáng đồng tiền bát gạo.
+- **Linh tinh**  
+Đúng như cái tên, đây là góc cho mọi thứ còn lại - những sở thích không đầu không cuối nhưng làm cuộc sống của mình thêm màu sắc.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+### Một vài lưu ý nhỏ
 
-Kyay zuu! 🙏🏼
+Cũng giống như nhiều blog cá nhân khác, mình có thể chèn một số liên kết tiếp thị (affiliate link) hoặc quảng cáo để kiếm chút "tiền cháo" duy trì tên miền và server. Nhưng bạn yên tâm, mình chỉ giới thiệu những gì mình thực sự dùng và thấy tốt. Mình không thích sự giả dối, và càng không muốn làm phiền trải nghiệm đọc của bạn bằng những thứ rác rưởi.
+
+Hy vọng những gì mình chia sẻ ở đây - dù là một dòng code hay một công thức nấu ăn vụng về - đều có thể mang lại chút thông tin hữu ích hoặc niềm vui nhỏ bé nào đó cho bạn.
+
+Cảm ơn bạn đã ở đây.
+
+**Tùng.**
