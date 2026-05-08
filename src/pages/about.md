@@ -11,7 +11,7 @@ Cảm ơn bạn đã dành thời gian dừng chân tại **[9h30-zzz.blog](http
 
 Mình là **Dương Tùng Anh**, nhưng bạn bè và cộng đồng mạng thường biết đến mình qua cái tên **Tunna Duong**.
 
-Mình là một cựu học sinh chuyên Biên Hòa, một cựu sinh viên Đại học FPT Hà Nội và Cao đẳng FPT Polytechnic Hà Nam, và hiện tại đang làm việc tại quê hương Hà Nam. Nếu phải dùng một vài từ để mô tả bản thân, mình sẽ tự nhận là một kẻ "mọt máy tính" chính hiệu với niềm đam mê mãnh liệt dành cho dòng code, công nghệ và cách thế giới này vận hành. Tuy nhiên, ngoài những lúc dán mắt vào màn hình, mình còn dành tình yêu cho nhiếp ảnh, quay phim và những chuyến đi.
+Mình là một cựu học sinh chuyên Biên Hòa, một cựu sinh viên Đại học FPT Hà Nội và Cao đẳng FPT Polytechnic Hà Nam, và hiện tại đang làm việc tại quê hương Hà Nam. Nếu phải dùng một vài từ để mô tả bản thân, mình sẽ tự nhận là một "con mọt máy tính" chính hiệu với niềm đam mê mãnh liệt dành cho dòng code, công nghệ và cách thế giới này vận hành. Tuy nhiên, ngoài những lúc dán mắt vào màn hình, mình còn dành tình yêu cho nhiếp ảnh, quay phim và những chuyến đi.
 
 ### Tại sao lại là @9h30.zzz?
 
