@@ -37,6 +37,7 @@ content:
             - Tâm sự mỏng
             - Review
             - Nấu nướng
+            - Hành trình tự lập
       - name: pubDatetime
         label: Published Datetime
         type: date
