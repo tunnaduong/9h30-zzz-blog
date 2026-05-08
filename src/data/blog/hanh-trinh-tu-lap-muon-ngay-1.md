@@ -16,5 +16,9 @@ Trong buổi tập hôm nay, sau khi 'thú nhận' với anh HLV về thói quen
 
 Và thế rồi mình quyết định nghe theo lời khuyên của anh: tự tay chuẩn bị những bữa ăn riêng. Việc chấp nhận thực hiện thử thách này không chỉ là để cải thiện vóc dáng, mà còn là bước đầu để mình học cách tự lập hơn trong chính ngôi nhà của mình.
 
+Sau khi tập xong buổi ngày hôm nay, mình đã tranh thủ phóng xe ghé qua chỗ cửa hàng Bách Hóa Xanh ở gần đấy. Mình đã dành ra hơn 70.000đ để mua những nguyên liệu phục vụ cho bữa tối như là: ức gà, giá đỗ, cà chua, cải thìa và không quên tự thưởng cho mình một lon 7UP không calo. Mà mình cũng không có rõ là mức giá đó là đắt hay rẻ cho một bữa ăn nữa... nhưng mà với mình thì mình ưu tiên chất lượng và nguồn gốc đảm bảo hơn là giá tiền.
+
+Rồi trong tối đó, mình hì hục lăn vào bếp để chế biến ra những món ăn mặc dù nghe khá là đơn giản với nhiều người nhưng lại là một thách thức lớn với một người chưa có kinh nghiệm nấu ăn như mình. Đó là ức gà rang, canh cà chua giá đỗ và cải thìa luộc. Tổng cộng mất gần một tiếng để ra được sản phẩm như hình bên dưới. Nhưng mà đáng lắm.
+
 ![](src/assets/images/IMG_5570.jpeg)
 
