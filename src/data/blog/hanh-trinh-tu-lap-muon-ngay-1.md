@@ -1,8 +1,8 @@
 ---
 title: "Hành trình tự lập muộn - Ngày 5: Lần đầu tự tay chuẩn bị bữa tối"
 author: Dương Tùng Anh
-description: Trong ngày đầu tiên của hành trình tự lập muộn, Tùng chia sẻ về
-  cách bản thân đã tự tay chuẩn bị cho bữa ăn đầu tiên của mình.
+description: Trong ngày thứ 5 của hành trình tự lập muộn, Tùng chia sẻ về cách
+  bản thân đã tự tay chuẩn bị cho bữa ăn đầu tiên của mình.
 draft: true
 featured: true
 tags:
