@@ -35,6 +35,8 @@ content:
             - Chuyện đời
             - Linh tinh
             - Tâm sự mỏng
+            - Review
+            - Nấu nướng
       - name: pubDatetime
         label: Published Datetime
         type: date
