@@ -18,7 +18,9 @@ Và thế rồi mình quyết định nghe theo lời khuyên của anh: tự ta
 
 Sau khi tập xong buổi ngày hôm nay, mình đã tranh thủ phóng xe ghé qua chỗ cửa hàng Bách Hóa Xanh ở gần đấy. Mình đã dành ra hơn 70.000đ để mua những nguyên liệu phục vụ cho bữa tối như là: ức gà, giá đỗ, cà chua, cải thìa và không quên tự thưởng cho mình một lon 7UP không calo. Mà mình cũng không có rõ là mức giá đó là đắt hay rẻ cho một bữa ăn nữa... nhưng mà với mình thì mình ưu tiên chất lượng và nguồn gốc đảm bảo hơn là giá tiền.
 
-Rồi trong tối đó, mình hì hục lăn vào bếp để chế biến ra những món ăn mặc dù nghe khá là đơn giản với nhiều người nhưng lại là một thách thức lớn với một người chưa có kinh nghiệm nấu ăn như mình. Đó là ức gà rang, canh cà chua giá đỗ và cải thìa luộc. Tổng cộng mất gần một tiếng để ra được sản phẩm như hình bên dưới. Nhưng mà đáng lắm.
+Rồi trong tối đó, mình hì hục lăn vào bếp để chế biến ra những món ăn mặc dù nghe khá là đơn giản với nhiều người nhưng lại là một thách thức lớn với một người chưa có kinh nghiệm nấu ăn như mình. Đó là ức gà rang, canh cà chua giá đỗ và cải thìa luộc. Tổng cộng mất gần một tiếng để ra được sản phẩm như hình bên dưới, nhưng mà đáng lắm và cũng rất ngon miệng nữa (Thông cảm mình chụp không được đẹp mắt).
+
+Mình đã học được cách nấu những món ăn mới, khác lạ hơn so với mấy món cơ bản nhu úp mì, chiên trứng, rán đậu... Cái khó duy nhất trong quá trình làm mấy món này đó là mình cầm dao chưa được vững cho lắm, nên đã lọc xương không kĩ và vẫn còn khá nhiều thịt xót lại ở xương.
 
 ![](src/assets/images/IMG_5570.jpeg)
 
