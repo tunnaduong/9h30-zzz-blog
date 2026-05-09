@@ -7,7 +7,7 @@ featured: true
 tags:
   - Tâm sự mỏng
   - Linh tinh
-pubDatetime: 2026-05-06T18:24:00+07:00
+pubDatetime: 2026-05-02T18:24:00+07:00
 ---
 Mình sẽ sử dụng trang web này để lưu giữ phần lớn những bài viết mà mình cảm thấy cần được bảo tồn.
 
