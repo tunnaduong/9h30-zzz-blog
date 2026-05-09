@@ -59,20 +59,20 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             return num.toString().padStart(2, "0");
           }
           const now = new Date();
-          let hour = now.getHours();
+          const hour24 = now.getHours();
           const minute = now.getMinutes();
-          const ampm = hour >= 12 ? "PM" : "AM";
-          hour = hour % 12;
-          if (hour === 0) hour = 12;
-          const timeStr = `${pad(hour)}:${pad(minute)}${ampm}`;
+          const ampm = hour24 >= 12 ? "PM" : "AM";
+          let hour12 = hour24 % 12;
+          if (hour12 === 0) hour12 = 12;
+          const timeStr = `${pad(hour12)}:${pad(minute)}${ampm}`;
           // Set current time in the span
           var timeSpan = document.getElementById("currentTime");
           if (timeSpan) {
             timeSpan.textContent = timeStr;
           }
           // Display the sleep notice if after 21:30 (9:30 PM) or before 6:00 AM
-          const isLate = (hour > 9 || (hour === 9 && minute >= 30));
-          const isEarly = (hour < 6);
+          const isLate = hour24 > 21 || (hour24 === 21 && minute >= 30);
+          const isEarly = hour24 < 6;
           if (isLate || isEarly) {
             document.getElementById("sleep-notice").style.display = "";
           }
