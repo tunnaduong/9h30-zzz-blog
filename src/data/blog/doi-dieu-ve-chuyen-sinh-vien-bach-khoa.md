@@ -18,6 +18,9 @@ ____
 
 Mình đi bình luận một bài post trên Threads, rằng mình ghét bọn vibe-coders hay đi khoe mẽ thành quả trên mạng. Cũng gọi là có tí thể hiện trình độ chuyên môn của bản thân cho họ chút qua một số từ như 'tâm lý, nỗi đau khách hàng...'. Nhưng mà thật sự, chuyện đó cũng chẳng có gì để nói, chỉ là một lập trình viên bị ghét AI-slop quá thôi. Và cũng sẽ chẳng có gì nếu bạn này không lôi trường học của người khác ra để so sánh về trình độ khi tranh luận trên mạng.
 
+Link map cho ai muốn hóng hớt: [Threads Post](https://www.threads.com/@9h30.zzz/post/DYQ_yM8EjMd?xmt=AQG0zwNa7bq1Qakm7FTRbCe7ZFdONxwQdclec5MiHCy9FoLtLyORji--63druT51z1a-3fHc&slof=1&utm_source=9h30-zzz.blog&utm_medium=blog_post&utm_campaign=bk)
+
 ____
 
-Cũng hơi gọi là quy chụp chút khi mà mình dùng từ 'mấy bọn học bách khoa'. Nhưng mà thật sự, mấy ở đây là bao nhiêu người? Và chắc gì từ 'mấy' đã thể hiện sức ép lên cả một tập thể? Mà có chửi lên thì mới khá lên được chứ. Mà chắc mấy bạn này chỉ giỏi tung hô, tâng bốc trường lên tận mấy tầng mây thôi mà, chưa bao giờ chửi trường nên còn ngây ngô và dựng ngược cả lên khi thấy có kẻ khác động chạm đến ngôi trường 'dấu yêu' của mình mà chưa chắc còn đã ra nổi được trường.
+Cũng hơi gọi là quy chụp chút khi mà mình dùng từ 'mấy bọn học bách khoa'. Nhưng mà thật sự, mấy ở đây là bao nhiêu người? Và chắc gì từ 'mấy' đã thể hiện sức ép lên cả một tập thể? Mà có chửi lên thì mới khá lên được chứ. Mà chắc mấy bạn này chỉ giỏi tung hô, tâng bốc trường lên tận mấy tầng mây thôi mà, chưa bao giờ chửi trường nên còn ngây ngô và dựng ngược cả lên khi thấy có kẻ khác động chạm đến ngôi trường 'dấu yêu' của mình mà chưa chắc còn đã ra nổi được trường ấy.
+
