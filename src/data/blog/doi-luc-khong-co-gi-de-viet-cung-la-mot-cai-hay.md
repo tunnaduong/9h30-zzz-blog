@@ -11,5 +11,5 @@ pubDatetime: 2026-05-23T14:23:00+07:00
 ---
 Xin chào mọi người, cũng một thời gian khá dài kể từ mình viết bài cuối rồi nhỉ? Mình thì đang đặt kế hoạch sẽ cố gắng ít nhất 1 tuần ra khoảng 1 vài bài cho các bạn. Và cũng còn đang định nâng cấp hệ thống trang blog hiện tại để nó hỗ trợ gửi tin thông báo về bài viết mới đến địa chỉ email của các bạn - một kiểu dạng newsletter hằng tuần...
 
-Và như mình có nói đâu đó trong [bài viết nói về chuyện tình đầu của mình](https://9h30-zzz.blog/posts/nhat-ky-mot-tuan-bien-mat-khoi-cuoc-doi-cua-ai-do/), 
+Và như mình có nói đâu đó trong [trang blog cũ](https://legacy-blog.tunnaduong.com/?ref=9h30.zzz), rằng mình nên cố gắng chăm chỉ viết ra thật nhiều những suy nghĩ của mình, và 'bớt lười biếng đi' một chút.
 
