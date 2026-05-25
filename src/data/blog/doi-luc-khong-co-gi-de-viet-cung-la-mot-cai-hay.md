@@ -19,5 +19,8 @@ Vì thế, cho nên mình sẽ bắt đầu viết nhiều hơn về cuộc số
 
 Dưới đây là một vài 'ý kiến chủ quan' hay góc nhìn của mình về việc tại sao những lúc 'không có gì để viết' này lại mang lại những giá trị riêng:
 
-- Đầu tiên là những lúc thế này sẽ là một khoảng lặng để 'nạp lại năng lượng' (hay sự tĩnh tại). Bởi vì viết là một quá trình để sản xuất ra nội dung. Nếu cứ viết mãi mà không có thời gian để dừng lại quan sát
+- Đầu tiên là những lúc thế này sẽ là một khoảng lặng để 'nạp lại năng lượng' (hay sự tĩnh tại). Bởi vì viết là một quá trình để sản xuất ra nội dung. Nếu cứ viết mãi mà không có thời gian để dừng lại quan sát, trải nghiệm và tích luỹ thì tâm trí sẽ trở nên cạn kiệt. Chúng ta nên tận dụng khoảng thời gian này để 'ngừng phát sóng'. Trong khoảng lặng đó, những trải nghiệm cuộc sống mới có cơ hội để lắng đọng lại trong tâm thức, có thể định hình và biến thành nguồn nguyên liệu dành cho những bài viết chất lượng hơn sau này.
+- Thứ hai là trong khoảng thời gian này chúng ta có thể tránh được sự áp lực của việc 'viết cho có'. Tại sao ư? Thử nghĩ mà xem, trong thời đại thông tin bùng nổ, chúng ta thường có xu hướng viết vì nghĩa vụ, vì thuật toán, vì lượt xem, likes, shares, hoặc chỉ đơn giản là vì muốn giữ sự hiện diện liên tục. Chấp nhận sự im lặng sẽ giúp bạn:
+  - Bảo vệ giá trị nội dung khi chỉ viết lúc thực sự có điều đáng nói.
+  - Giữ được sự chân thật khi không bị cuốn vào việc chạy theo số lượng mà đánh mất cá tính riêng.
 
