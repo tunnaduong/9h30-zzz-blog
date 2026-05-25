@@ -26,8 +26,9 @@ Dưới đây là một vài 'ý kiến chủ quan' hay góc nhìn của mình v
 - Thứ ba: Sự trống rỗng về mặt ý tưởng là tiền đề của sự sáng tạo. Bởi theo triết học phương Đông, khoảng trống bên trong chiếc bình chính là sự hữu ích của nó. Tâm trí cũng vậy, khi nó đầy ắp những định kiến, deadline và các ý tưởng cũ, nó sẽ không còn chỗ để chứa đựng những hạt mầm ý tưởng mới nảy nở. Một khoảng lặng không có gì để viết chính là lúc tâm trí bạn được 'dọn dẹp', tạo một không gian cho những góc nhìn đột phá và sáng tạo, mới mẻ được xuất hiện. Lấy ví dụ đơn giản như căn phòng làm việc của bạn, nếu góc làm việc của bạn cực kì bừa bộn thì khi đó, năng suất của chúng ta sẽ giảm đi hơn một nửa vì nó làm tăng căng thẳng và giảm khả năng tập trung.
 - Cuối cùng, có những giai đoạn cuộc sống của mỗi người chúng ta bình lặng đến mức không có biến cố hay cảm xúc dữ dội nào để ghi chép. Đó sẽ là lúc mà mọi người trong chúng ta nhận ra rằng: "Không phải lúc nào cuộc đời cũng cần phải được 'kể lại'". Đôi khi, chúng ta chỉ cần sống trọn vẹn với khoảnh khắc hiện tại, hay như giới trẻ hiện nay hay dùng thuật ngữ là 'enjoy cái moment này'. Hãy cảm nhận hơi thở và sự tồn tại mà không cần phải gọi tên hay mô tả nó bằng ngôn từ. Đó là một cách tiếp cận cuộc sống rất an nhiên và tự tại.
 
-> Không viết không có nghĩa là ngừng tư duy
+> Không viết không có nghĩa là ngừng tư duy.
 
+Chốt lại: Việc không có gì để viết giống như một nốt lặng trong một bản nhạc. Nếu không có những nốt lặng, bản nhạc sẽ trở nên hỗn loạn và mệt mỏi cho người nghe. Hãy tạo ra những nốt lặng để giai điệu có chiều sâu hơn và để người nghe có thời gian để tự cảm nhận.
 
+> Hãy coi những giai đoạn "không có gì để viết" là một món quà: Một cơ hội để sống nhiều hơn và viết ít lại.
 
-&nbsp;
