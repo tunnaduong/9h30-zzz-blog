@@ -15,3 +15,5 @@ Và như mình có nói đâu đó trong [trang blog cũ](https://legacy-blog.tu
 
 Ngoài ra, trong một tập podcast mình từng làm, mình đã nói rằng: "Hãy viết nhật ký hằng ngày, dù cho não bộ lúc đó không có gì để viết. Bởi vì một khi đã bắt tay vào viết lách, bạn sẽ không thể dừng nó lại" (Đại khái là vậy).
 
+Vì thế, cho nên mình sẽ bắt đầu viết nhiều hơn về cuộc sống xung quanh mình, những trải nghiệm mình đã trải qua, để sau này nhìn lại, mình thấy được một thứ gì đó đã làm nên một phần thanh xuân tươi đẹp của mình
+
