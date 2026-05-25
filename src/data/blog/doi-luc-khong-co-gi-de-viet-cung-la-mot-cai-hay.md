@@ -23,5 +23,11 @@ Dưới đây là một vài 'ý kiến chủ quan' hay góc nhìn của mình v
 - Thứ hai là trong khoảng thời gian này chúng ta có thể tránh được sự áp lực của việc 'viết cho có'. Tại sao ư? Thử nghĩ mà xem, trong thời đại thông tin bùng nổ, chúng ta thường có xu hướng viết vì nghĩa vụ, vì thuật toán, vì lượt xem, likes, shares, hoặc chỉ đơn giản là vì muốn giữ sự hiện diện liên tục. Chấp nhận sự im lặng sẽ giúp bạn:
   - Bảo vệ giá trị nội dung khi chỉ viết lúc thực sự có điều đáng nói.
   - Giữ được sự chân thật khi không bị cuốn vào việc chạy theo số lượng mà đánh mất cá tính riêng.
-- Thứ ba: Sự trống rỗng về mặt ý tưởng là tiền đề của sự sáng tạo. Bởi theo triết học phương Đông, khoảng trống bên trong chiếc bình chính là sự hữu ích của nó. Tâm trí cũng vậy, khi nó đầy ắp những định kiến, deadline và các ý tưởng cũ, nó sẽ không còn chỗ để chứa đựng những hạt mầm ý tưởng mới nảy nở. Một khoảng lặng không có gì để viết chính là lúc tâm trí bạn được 'dọn dẹp', tạo một không gian cho những góc nhìn đột phá và sáng tạo, mới mẻ được xuất hiện. Lấy ví dụ đơn giản như
+- Thứ ba: Sự trống rỗng về mặt ý tưởng là tiền đề của sự sáng tạo. Bởi theo triết học phương Đông, khoảng trống bên trong chiếc bình chính là sự hữu ích của nó. Tâm trí cũng vậy, khi nó đầy ắp những định kiến, deadline và các ý tưởng cũ, nó sẽ không còn chỗ để chứa đựng những hạt mầm ý tưởng mới nảy nở. Một khoảng lặng không có gì để viết chính là lúc tâm trí bạn được 'dọn dẹp', tạo một không gian cho những góc nhìn đột phá và sáng tạo, mới mẻ được xuất hiện. Lấy ví dụ đơn giản như căn phòng làm việc của bạn, nếu góc làm việc của bạn cực kì bừa bộn thì khi đó, năng suất của chúng ta sẽ giảm đi hơn một nửa vì nó làm tăng căng thẳng và giảm khả năng tập trung.
+- Cuối cùng, có những giai đoạn cuộc sống của mỗi người chúng ta bình lặng đến mức không có biến cố hay cảm xúc dữ dội nào để ghi chép. Đó sẽ là lúc mà mọi người trong chúng ta nhận ra rằng: "Không phải lúc nào cuộc đời cũng cần phải được 'kể lại'". Đôi khi, chúng ta chỉ cần sống trọn vẹn với khoảnh khắc hiện tại, hay như giới trẻ hiện nay hay dùng thuật ngữ là 'enjoy cái moment này'. Hãy cảm nhận hơi thở và sự tồn tại mà không cần phải gọi tên hay mô tả nó bằng ngôn từ. Đó là một cách tiếp cận cuộc sống rất an nhiên và tự tại.
 
+> Không viết không có nghĩa là ngừng tư duy
+
+
+
+&nbsp;
