@@ -23,4 +23,5 @@ Dưới đây là một vài 'ý kiến chủ quan' hay góc nhìn của mình v
 - Thứ hai là trong khoảng thời gian này chúng ta có thể tránh được sự áp lực của việc 'viết cho có'. Tại sao ư? Thử nghĩ mà xem, trong thời đại thông tin bùng nổ, chúng ta thường có xu hướng viết vì nghĩa vụ, vì thuật toán, vì lượt xem, likes, shares, hoặc chỉ đơn giản là vì muốn giữ sự hiện diện liên tục. Chấp nhận sự im lặng sẽ giúp bạn:
   - Bảo vệ giá trị nội dung khi chỉ viết lúc thực sự có điều đáng nói.
   - Giữ được sự chân thật khi không bị cuốn vào việc chạy theo số lượng mà đánh mất cá tính riêng.
+- Thứ ba: Sự trống rỗng về mặt ý tưởng là tiền đề của sự sáng tạo. Bởi theo triết học phương Đông, khoảng trống bên trong chiếc bình chính là sự hữu ích của nó. Tâm trí cũng vậy, khi nó đầy ắp những định kiến, deadline và các ý tưởng cũ, nó sẽ không còn chỗ để chứa đựng những hạt mầm ý tưởng mới nảy nở. Một khoảng lặng không có gì để viết chính là lúc tâm trí bạn được 'dọn dẹp', tạo một không gian cho những góc nhìn đột phá và sáng tạo, mới mẻ được xuất hiện. Lấy ví dụ đơn giản như
 
