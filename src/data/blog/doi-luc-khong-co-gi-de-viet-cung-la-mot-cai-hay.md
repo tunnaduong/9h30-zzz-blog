@@ -2,7 +2,7 @@
 title: Đôi lúc không có gì để viết cũng là một cái hay
 author: Dương Tùng Anh
 description: Hãy cùng nghe Tùng tâm sự về những câu chuyện từng trải qua...
-draft: true
+draft: false
 featured: true
 tags:
   - Tâm sự mỏng
