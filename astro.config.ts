@@ -10,6 +10,15 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import { SITE } from "./src/config";
+import fs from "node:fs";
+import seoGraph from "@jdevalk/astro-seo-graph/integration";
+import { gitLastmod } from "@jdevalk/astro-seo-graph";
+
+const isProductionBuild =
+  (process.env.CF_PAGES === "1" && process.env.CF_PAGES_BRANCH === "main") ||
+  process.env.VERCEL_ENV === "production" ||
+  process.env.CONTEXT === "production" ||
+  process.env.NODE_ENV === "production";
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,6 +26,52 @@ export default defineConfig({
   integrations: [
     sitemap({
       filter: page => SITE.showArchives || !page.endsWith("/archives"),
+      serialize: (item) => {
+        const url = new URL(item.url);
+        const path = url.pathname;
+        let filePath = "";
+
+        if (path === "/" || path === "") {
+          filePath = "src/pages/index.astro";
+        } else if (path.startsWith("/posts/")) {
+          const slug = path.replace(/^\/posts\/|\/$/g, "");
+          filePath = `src/data/blog/${slug}.md`;
+        } else {
+          const cleanPath = path.replace(/\/$/, "");
+          filePath = `src/pages${cleanPath}.astro`;
+          if (!fs.existsSync(filePath)) {
+            filePath = `src/pages${cleanPath}/index.astro`;
+          }
+        }
+
+        if (fs.existsSync(filePath)) {
+          const last = gitLastmod(filePath);
+          if (last) {
+            item.lastmod = last.toISOString();
+          }
+        }
+        return item;
+      },
+    }),
+    seoGraph({
+      validateH1: true,
+      validateUniqueMetadata: true,
+      validateImageAlt: true,
+      validateMetadataLength: true,
+      validateInternalLinks: {
+        skip: (href) => href.startsWith("/api/"),
+      },
+      llmsTxt: {
+        title: "Tùng.",
+        siteUrl: SITE.website,
+      },
+      ...(isProductionBuild && {
+        indexNow: {
+          key: process.env.INDEXNOW_KEY || "dummykey1234567890",
+          host: "9h30-zzz.blog",
+          siteUrl: SITE.website,
+        },
+      }),
     }),
   ],
   markdown: {

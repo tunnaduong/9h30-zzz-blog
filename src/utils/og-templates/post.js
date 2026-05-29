@@ -203,7 +203,7 @@ export default async post => {
                             type: "span",
                             props: {
                               style: { overflow: "hidden", fontWeight: "bold" },
-                              children: SITE.title,
+                              children: "@9h30.zzz",
                             },
                           },
                         ],

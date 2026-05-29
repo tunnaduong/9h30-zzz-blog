@@ -4,6 +4,19 @@ import { SITE } from "@/config";
 
 export const BLOG_PATH = "src/data/blog";
 
+const localSeoSchema = (image: any) =>
+  z.object({
+    title: z.string().min(5).max(120).optional(),
+    description: z.string().min(15).max(160).optional(),
+    image: z
+      .object({
+        src: image(),
+        alt: z.string(),
+      })
+      .optional(),
+    pageType: z.enum(["website", "article"]).default("website"),
+  });
+
 const blog = defineCollection({
   loader: glob({ pattern: "**/[^_]*.md", base: `./${BLOG_PATH}` }),
   schema: ({ image }) =>
@@ -20,6 +33,7 @@ const blog = defineCollection({
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),
       timezone: z.string().optional(),
+      seo: localSeoSchema(image).optional(),
     }),
 });
 
