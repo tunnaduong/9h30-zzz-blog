@@ -17,6 +17,9 @@ importers:
       '@jdevalk/astro-seo-graph':
         specifier: ^2.0.0
         version: 2.0.0(astro@5.16.6(jiti@2.6.1)(lightningcss@1.30.2)(rollup@4.41.1)(typescript@5.9.3)(yaml@2.7.1))(typescript@5.9.3)
+      '@jdevalk/seo-graph-core':
+        specifier: ^0.6.2
+        version: 0.6.2(typescript@5.9.3)
       '@resvg/resvg-js':
         specifier: ^2.6.2
         version: 2.6.2
