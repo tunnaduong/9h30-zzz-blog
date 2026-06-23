@@ -146,7 +146,3 @@ Sau build thành công, output nằm trong thư mục `dist/`.
 ## 11) Giấy phép
 
 Dự án theo giấy phép **MIT**.
-
----
-
-Nếu bạn muốn mình bổ sung thêm phần “quy trình viết bài chuẩn”, “quy ước đặt tên slug/tag”, hoặc “hướng dẫn deploy chi tiết theo nền tảng (Cloudflare/Vercel/Nginx)”, có thể mở issue để cập nhật README tiếp.
