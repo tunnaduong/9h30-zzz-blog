@@ -119,7 +119,10 @@ const graph = assembleGraph(graphPieces as any);
         },
       ]}
       extraMeta={[
-        { name: "viewport", content: "width=device-width" },
+        {
+          name: "viewport",
+          content: "width=device-width, initial-scale=1, viewport-fit=cover",
+        },
         { name: "generator", content: Astro.generator },
         ...(PUBLIC_GOOGLE_SITE_VERIFICATION
           ? [{ name: "google-site-verification", content: PUBLIC_GOOGLE_SITE_VERIFICATION }]
