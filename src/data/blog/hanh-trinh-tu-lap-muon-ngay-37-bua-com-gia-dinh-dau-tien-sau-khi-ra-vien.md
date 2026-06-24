@@ -19,4 +19,6 @@ Nhưng thôi, luyên thuyên về chuyện bệnh tật thế đủ rồi. Chủ
 
 Các bạn còn nhớ cái bài viết ở "Ngày 5" khi mình lần đầu tự tay vào bếp chuẩn bị bữa tối chứ? Lần đó, theo lời khuyên của anh HLV phòng gym, mình chỉ dám nấu một suất ăn kiêng sương sương cho riêng bản thân với ức gà rang, canh cà chua giá đỗ và cải thìa luộc. Nhưng hôm nay thì khác, mình quyết định "chơi lớn" hơn: Đứng bếp nấu hẳn một mâm cơm tươm tất cho cả gia đình - cụ thể là mẹ, mình và 2 anh chị!
 
-Vừa từ viện về, cất gọn đồ đạc là mình đi chợ liền, rồi xắn tay vào bếp ngay cho nóng. Mình đã mua
+Vừa từ viện về, cất gọn đồ đạc là mình đi chợ liền, rồi xắn tay vào bếp ngay cho nóng. Mình đã mua các nguyên liệu thực hiện các món cùng với mẹ. Rồi về trổ tài nấu nướng cho cả nhà.
+
+Tiện thể nói qua chút về căn nhà của anh chị. Mình có một người chị ruột bên trên mình và một người anh rể. Anh chị cũng mới dọn nhà từ nhà tập thể cũ kĩ qua một căn nhà mới đầy đủ tiện nghi ở 169 Thái Hà. Đó là một căn nhà 3 tầng khang trang, rộng rãi.
