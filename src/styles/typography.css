@@ -47,6 +47,11 @@
       @apply mx-auto border border-border;
     }
 
+    iframe {
+      @apply mx-auto block h-auto w-full max-w-full;
+      aspect-ratio: 16 / 9;
+    }
+
     figcaption {
       @apply opacity-75;
     }
