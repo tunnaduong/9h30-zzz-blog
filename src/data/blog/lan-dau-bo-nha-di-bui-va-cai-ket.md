@@ -22,4 +22,22 @@ Thì như các bạn đã biết hoặc chưa biết, mình là người có ti�
 
 Về bối cảnh thì mình đã đi ăn sinh nhật em họ mình chuẩn bị sang Hàn Quốc du học thạc sĩ rồi về nhà anh chị ở một hôm đến hôm sau, tức 27/07 - check mới thấy đúng ngày Thương binh Liệt sĩ Việt Nam :v
 
-Lúc tầm chiều nay mình có lướt được một bài viết về chữa bệnh rối loạn lưỡng cực bằng Pháp luân công
+Lúc tầm chiều nay mình có lướt được một bài viết về chữa bệnh rối loạn lưỡng cực bằng Pháp luân công. Đang lướt lướt thì tự dưng máy tính ngoài quán net tíc tắc đếm ngược rồi "bụp" một cái, màn hình tối om. Cạn kiệt nguồn tiền duy trì sự sống là có thật các bạn ạ, còn đúng 0 đồng trong tài khoản net luôn!
+
+Thế là mình đành lủi thủi ôm cái điện thoại chui tọt vào cái phòng hút thuốc của quán net trên phố Thái Hà. Ngồi rít nốt đếu thuốc, đồng hồ chỉ đúng 11h48 đêm. Xung quanh khói thuốc mờ ảo, mình bật ghi âm lên thoại nhanh mấy dòng này để test thử cái công nghệ AI chuyển giọng nói thành văn bản của Gemini xem nó "xịn" đến đâu, chứ tầm này mà ngồi gõ tay từng từ trên điện thoại chắc tới sáng mai.
+
+Lại nói về cái vụ "tu luyện" Pháp Luân Công mà chiều nay mình vô tình đọc được. Nói thật là dạo này đầu óc mình nó cứ xoay mòng mòng. Từ đợt mình tự ý "đột ngột bỏ thuốc" – một điều mà bác sĩ dặn đi dặn lại là cấm kỵ tuyệt đối với người mắc rối loạn lưỡng cực – là nhà mình bắt đầu thành cái chiến trường. Hôm nay lại vừa có một trận cãi nhau nảy lửa với bố mẹ và chị gái xong. Mẹ mình thì lo đến phát điên, nhắc nhở liên tục, còn mình thì... chán chả buồn nói.
+
+Nhưng mà dị một cái nhé, sau khi bỏ thuốc xong, mình lại cảm thấy đầu óc mình nó tỉnh táo dã man! Tỉnh một cách kỳ lạ, cứ như kiểu mình đã trở lại thành người bình thường ấy. Nhưng mình biết thừa, cái sự "tỉnh táo" này có khi lại là khúc dạo đầu cho một cơn loạn thần mới. Cứ quên thuốc vài ngày là bắt đầu trong đầu nhảy ra toàn mấy ý tưởng điên rồ, bay bổng trên mây trên gió.
+
+Sáng mai (27/07) theo lịch là phải đi tái khám. Bác sĩ T. thì đang nghỉ thai sản rồi, giờ mà đi khám lại thì không biết thế nào. Nhiều lúc nghĩ hay là mai mình trốn luôn nhỉ? Mà trốn đi đâu được? Có khi lại bị đội bảo vệ hoặc dịch vụ trông thuê của bên Bạch Mai đến tận nhà "hốt" đi, trói chân trói tay khiêng lên xe cũng nên. Lần trước vào viện trải nghiệm cảm giác đối xử chả ra làm sao, mặc dù về sau nghĩ lại thì vẫn phải cảm ơn bác sĩ nhiều lắm. Nhưng nói thật, chui vào cái viện đấy mất thời gian khủng khiếp. Thời gian đấy ở ngoài mình còn đi đọc sách, tập gym, chạy bộ, đi dạo, rồi ngồi code lập trình linh tinh có phải sướng hơn không?
+
+Thế nhưng đời không như là mơ. Hiện tại thì mình vẫn chưa có công ăn việc làm gì ổn định cả. Đi đâu ai hỏi cũng oai xông xênh bảo: *"Em/cháu đang làm cho công ty của bố"*. Đấy, cái mác nghe thì kêu đấy, nhưng thực chất bố mình cũng chán mình lắm rồi. Bố chỉ mong sao cái thằng con này nó sống yên ổn, nhàn nhã trôi qua từng ngày là tốt lắm rồi. Nhưng tính mình thì lại không chịu được cái sự bình lặng đấy! Mình thích cuộc sống nó phải phiêu lưu, phải trải nghiệm, phải có chút kịch tính nó mới là sống chứ!
+
+Chính vì cái sự "thích trải nghiệm" đấy nên mới đẻ ra cái tập podcast ngẫu hứng lúc nửa đêm này đây.
+
+Thôi, cũng muộn lắm rồi, giờ đã 11h53. Khói thuốc cũng tan bớt, ghi âm cũng xong, giờ mình phải xách mông ra khỏi quán net để mò sang nhà thằng bạn thân chí cốt ngủ nhờ qua đêm thôi.
+
+Tập này coi như là bản test thử nghiệm, có khi mai tỉnh táo lại thấy ngượng quá lại xóa vội không chừng! Nhưng thôi kệ đi, nói ra được thế này cũng thấy nhẹ cả người.
+
+Hẹn gặp lại các bạn ở Part 2 nhé! Cảm ơn các bạn đã lắng nghe những dòng nhật ký nhảm nhí của tôi.
