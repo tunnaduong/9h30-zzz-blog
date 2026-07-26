@@ -20,4 +20,4 @@ Thì như các bạn đã biết hoặc chưa biết, mình là người có ti�
 
 Đó là một ngày trời nắng đẹp, mình vừa đi chơi xả láng cuộc đời với cả nhà bên đằng ngoại ở căn resort ở Ninh Bình - [Cháy Mountain Retreat Ninh Bình](https://www.google.com/search?q=Ch%C3%A1y+Retreat&sourceid=tunnaduong) vào hôm 25/07, thì đúng vào gần dịp đi chơi, cũng là lúc mình cần phải lên Hà Nội để tái khám. Cũng may mà mãi đến hôm sau mình mới biết là bác sĩ T. điều trị chính cho mình đang nghỉ thai sản được tầm 1 tháng nay rồi. Vì mình ra viện đợt tháng 5 nên cũng không rõ. Nhưng mà thôi kệ đi, hãy vào chủ đề chính nhỉ?
 
-Về bối cảnh thì mình đã đi ăn sinh nhật em họ mình chuẩn bị sang Hàn Quốc du học thạc sĩ
+Về bối cảnh thì mình đã đi ăn sinh nhật em họ mình chuẩn bị sang Hàn Quốc du học thạc sĩ rồi về nhà anh chị ở một hôm đến hôm sau, tức 27/07 - check mới thấy đúng ngày Thương binh Liệt sĩ Việt Nam :v
