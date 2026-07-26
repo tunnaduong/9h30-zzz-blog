@@ -16,6 +16,7 @@ Mình viết những dòng này khi máy tính ngoài quán net đang tíc tắc
 
 Không nói nhiều nữa, chúng ta cùng speedrun gõ phím để kể một câu chuyện đầy kịch tính nào :))
 
-Thì như các bạn đã biết hoặc chưa biết, mình là người có tiền sử từng mắc bệnh tâm thần. Nói là tâm thần để làm cái mác cho oai vậy thôi, chứ bệnh tình của mình cũng nhẹ, và trên mạng có đầy các hội nhóm có người mắc căn bệnh oái oăm này - rối loạn cảm xúc lưỡng cực (xin phép viết tắt là 'rối loạn lưỡng cực' ở các phấn tiếp theo của bài blog này).
+Thì như các bạn đã biết hoặc chưa biết, mình là người có tiền sử từng mắc bệnh tâm thần. Nói là tâm thần để làm cái mác cho oai vậy thôi, chứ bệnh tình của mình cũng nhẹ, và trên mạng có đầy các hội nhóm có người mắc căn bệnh oái oăm này - rối loạn cảm xúc lưỡng cực (xin phép viết tắt là 'rối loạn lưỡng cực' ở các phấn tiếp theo của bài blog này). Bệnh này nặng hay nhẹ thì xin phép để cho bạn tự tìm hiểu qua Google nhé, thậm chí còn có hẳn một website riêng về căn bệnh này - [https://roiloanluongcuc.com](https://roiloanluongcuc.com) - Shout out to anh Quang Phạm chủ group 'Rối loạn lưỡng cực - Tốt lên mỗi ngày cùng bạn' vì đã code ra website này.
 
-Đó là một ngày trời nắng đẹp, mình vừa đi chơi xả láng cuộc đời với cả nhà bên đằng ngoại ở căn resort ở Ninh Bình - [Cháy Mountain Retreat Ninh Bình](https://www.google.com/search?q=Ch%C3%A1y+Retreat&sourceid=tunnaduong)
+Đó là một ngày trời nắng đẹp, mình vừa đi chơi xả láng cuộc đời với cả nhà bên đằng ngoại ở căn resort ở Ninh Bình - [Cháy Mountain Retreat Ninh Bình](https://www.google.com/search?q=Ch%C3%A1y+Retreat&sourceid=tunnaduong) 
+
