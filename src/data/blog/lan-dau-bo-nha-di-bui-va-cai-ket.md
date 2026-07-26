@@ -2,7 +2,7 @@
 title: Lần đầu bỏ nhà đi bụi và cái kết
 author: Dương Tùng Anh
 description: Hành trình đi bụi đầy khó khăn hiểm trở và cái kết ngọt ngào :v
-draft: true
+draft: false
 featured: true
 tags:
   - Chuyện đời
