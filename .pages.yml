@@ -38,6 +38,7 @@ content:
             - Review
             - Nấu nướng
             - Hành trình tự lập
+            - Hà Nội Chu Du Kí
       - name: pubDatetime
         label: Published Datetime
         type: date
