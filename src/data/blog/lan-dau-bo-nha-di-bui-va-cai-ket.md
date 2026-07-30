@@ -6,6 +6,7 @@ draft: false
 featured: true
 tags:
   - Chuyện đời
+  - Hà Nội Chu Du Kí
 pubDatetime: 2026-07-26T22:54:00+07:00
 ---
 **[10:57 PM - 26/07/2026]**
