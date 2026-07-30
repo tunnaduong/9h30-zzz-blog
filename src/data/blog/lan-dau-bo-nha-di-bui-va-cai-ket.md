@@ -1,5 +1,5 @@
 ---
-title: Lần đầu bỏ nhà đi bụi và cái kết
+title: Hà Nội Chu Du Kí (Phần 1) - Lần đầu bỏ nhà đi bụi và cái kết
 author: Dương Tùng Anh
 description: Hành trình đi bụi đầy khó khăn hiểm trở và cái kết ngọt ngào :v
 draft: false
