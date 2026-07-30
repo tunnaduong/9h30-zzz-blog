@@ -16,7 +16,7 @@ Tưởng đâu sẽ là một buổi chiều chill chill êm đềm bấm xích 
 
 ### Cú "ngáo" quên SIM và người lạ ở hồ Hoàng Cầu
 
-Số là thế này, mình cầm theo con máy phụ Android — con Redmi Note Note 11 5G (dân dev mà, máy móc linh tinh để test app thì không thiếu, từ iPhone 8, 13, XS Max đủ cả). Thế nhưng vừa ra đến hồ định bật app TNGo mở xe đạp công cộng thì mới ngửa mặt lên trời nhận ra: **Máy phụ không có SIM, cũng chẳng có tý 4G nào!**
+Số là thế này, mình cầm theo con máy phụ Android - con Redmi Note 14 4G (dân dev mà, máy móc linh tinh để test app thì không thiếu, từ iPhone 8, 13, XS Max đủ cả). Thế nhưng vừa ra đến hồ định bật app TNGo mở xe đạp công cộng thì mới ngửa mặt lên trời nhận ra: **Máy phụ không có SIM, cũng chẳng có tý 4G nào!**
 
 Không mạng, không app, tai nghe mang theo cũng thành đồ chơi vì máy mới reset chưa tải nhạc. Rơi vào thế bí, mình đành áp dụng chiến thuật "mặt dày": đi xin Wi-Fi nhờ của người dân quanh đường.
 
