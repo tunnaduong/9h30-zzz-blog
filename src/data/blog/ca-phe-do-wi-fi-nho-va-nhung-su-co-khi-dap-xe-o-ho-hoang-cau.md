@@ -1,5 +1,6 @@
 ---
-title: Cà phê đổ, Wi-Fi nhờ và những sự cố khi đạp xe ở hồ Hoàng Cầu
+title: Hà Nội Chu Du Kí (Phần 2) - Cà phê đổ, Wi-Fi nhờ và những sự cố khi đạp
+  xe ở hồ Hoàng Cầu
 author: Dương Tùng Anh
 description: Một buổi chiều đạp xe thả giông quanh hồ Hoàng Cầu tưởng chừng bình
   yên nhưng lại biến thành chuỗi "sự cố" dở khóc dở cười.
